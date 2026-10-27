@@ -1,0 +1,13 @@
+Compound Interest Explained
+
+Interest is the amount earned on money that you save or invest, or the amount you pay on money that you borrow. Simple interest is calculated only on the original amount, called the principal. Compound interest is calculated on the principal and also on the interest that has already been added. This means the balance grows faster as time passes, which is why compound interest is often described as interest earning interest.
+
+The formula. The future value of a lump sum is A = P x (1 + r/n) raised to the power n x t. In this formula, P is the principal, r is the annual interest rate written as a decimal, n is the number of times interest is compounded each year, and t is the number of years.
+
+Example. Suppose you deposit ₹1,00,000 at an assumed annual rate of 6 percent, compounded yearly. After one year you have ₹1,06,000. After two years you have ₹1,12,360, because the second year's interest is calculated on ₹1,06,000 and not on ₹1,00,000. With simple interest, the balance after two years would be only ₹1,12,000. The difference looks small at first but becomes larger over long periods.
+
+Why time matters. The longer money stays invested, the more compounding can help. Starting early with a modest amount can matter more than starting late with a large amount.
+
+Compounding works against borrowers too. Credit card balances and some personal loans compound at high rates, so unpaid balances can grow quickly. Paying off high-interest debt is often a priority.
+
+A cautious note. The rate used in any projection is an assumption. Real investments can rise and fall, and returns are never guaranteed. Savings account rates and deposit rates can change over time. Use projections to understand the idea, not as a promise of future results.

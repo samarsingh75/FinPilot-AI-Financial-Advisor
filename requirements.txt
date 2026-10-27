@@ -1,0 +1,12 @@
+# FinPilot dependencies (Python 3.11).
+# Versions marked "tested" were installed and exercised in the build environment.
+streamlit>=1.52,<2          # tested: 1.66.0
+pandas>=2.2,<4              # tested: 3.0.2
+numpy>=1.26,<3              # tested: 2.4.4
+plotly>=5.24,<8             # tested: 7.1.0
+google-genai>=1.0,<3        # tested: 2.31.0
+pymupdf>=1.24,<2            # tested: 1.28.2
+faiss-cpu>=1.8,<2           # tested: 1.15.1
+sentence-transformers>=3.0,<7   # not runnable in the build sandbox (see README); API checked against 6.1.0
+python-dotenv>=1.0,<2       # tested: 1.2.2
+pytest>=8.0,<10             # tested: 9.1.1

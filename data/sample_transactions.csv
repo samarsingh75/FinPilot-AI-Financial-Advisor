@@ -1,0 +1,139 @@
+date,description,category,type,amount
+2026-04-01,Monthly salary credit,Salary,income,65000
+2026-04-02,OTT streaming subscription,Subscriptions,expense,499
+2026-04-02,Music streaming subscription,Subscriptions,expense,119
+2026-04-03,Supermarket weekly groceries,Groceries,expense,2450
+2026-04-05,Monthly house rent,Rent,expense,18000
+2026-04-06,Metro card recharge,Transport,expense,1000
+2026-04-08,Electricity bill,Utilities,expense,1850
+2026-04-09,Restaurant dinner,Dining Out,expense,1800
+2026-04-10,Broadband and mobile recharge,Utilities,expense,1298
+2026-04-10,Online data science course,Education,expense,3499
+2026-04-11,Supermarket weekly groceries,Groceries,expense,2100
+2026-04-13,Movie tickets,Entertainment,expense,900
+2026-04-14,Fuel - petrol,Transport,expense,1800
+2026-04-16,Cafe and snacks,Dining Out,expense,650
+2026-04-17,Clothing purchase,Shopping,expense,2200
+2026-04-18,Freelance dashboard project,Freelance,income,12000
+2026-04-19,Vegetable and fruit market,Groceries,expense,1100
+2026-04-22,Cab rides,Transport,expense,650
+2026-04-23,Food delivery orders,Dining Out,expense,750
+2026-04-24,Online shopping - household items,Shopping,expense,1100
+2026-04-25,Health insurance premium,Insurance,expense,1250
+2026-04-26,Supermarket monthly staples,Groceries,expense,2800
+2026-04-28,Weekend brunch,Dining Out,expense,1200
+2026-05-01,Monthly salary credit,Salary,income,65000
+2026-05-02,OTT streaming subscription,Subscriptions,expense,499
+2026-05-02,Music streaming subscription,Subscriptions,expense,119
+2026-05-03,Supermarket weekly groceries,Groceries,expense,2300
+2026-05-05,Monthly house rent,Rent,expense,18000
+2026-05-06,Metro card recharge,Transport,expense,1000
+2026-05-08,Electricity bill,Utilities,expense,2300
+2026-05-09,Restaurant dinner,Dining Out,expense,2200
+2026-05-10,Broadband and mobile recharge,Utilities,expense,1298
+2026-05-11,Supermarket weekly groceries,Groceries,expense,2250
+2026-05-13,Movie tickets,Entertainment,expense,1200
+2026-05-14,Fuel - petrol,Transport,expense,2000
+2026-05-15,Pharmacy purchase,Healthcare,expense,850
+2026-05-16,Cafe and snacks,Dining Out,expense,820
+2026-05-19,Vegetable and fruit market,Groceries,expense,980
+2026-05-22,Cab rides,Transport,expense,900
+2026-05-23,Food delivery orders,Dining Out,expense,1150
+2026-05-24,Online shopping - household items,Shopping,expense,1900
+2026-05-25,Health insurance premium,Insurance,expense,1250
+2026-05-26,Supermarket monthly staples,Groceries,expense,3100
+2026-06-01,Monthly salary credit,Salary,income,65000
+2026-06-02,OTT streaming subscription,Subscriptions,expense,499
+2026-06-02,Music streaming subscription,Subscriptions,expense,119
+2026-06-03,Supermarket weekly groceries,Groceries,expense,2600
+2026-06-05,Monthly house rent,Rent,expense,18000
+2026-06-06,Metro card recharge,Transport,expense,1000
+2026-06-08,Electricity bill,Utilities,expense,2900
+2026-06-09,Restaurant dinner,Dining Out,expense,2600
+2026-06-10,Broadband and mobile recharge,Utilities,expense,1298
+2026-06-10,Certification exam fee,Education,expense,4500
+2026-06-11,Supermarket weekly groceries,Groceries,expense,2150
+2026-06-14,Fuel - petrol,Transport,expense,1900
+2026-06-14,Weekend trip bus tickets,Travel,expense,1900
+2026-06-16,Cafe and snacks,Dining Out,expense,700
+2026-06-17,Clothing purchase,Shopping,expense,3800
+2026-06-19,Vegetable and fruit market,Groceries,expense,1250
+2026-06-20,Freelance data cleaning project,Freelance,income,15000
+2026-06-21,Concert and event tickets,Entertainment,expense,2500
+2026-06-22,Cab rides,Transport,expense,1100
+2026-06-23,Food delivery orders,Dining Out,expense,980
+2026-06-24,Online shopping - household items,Shopping,expense,1250
+2026-06-25,Health insurance premium,Insurance,expense,1250
+2026-06-26,Supermarket monthly staples,Groceries,expense,2950
+2026-06-28,Weekend brunch,Dining Out,expense,1500
+2026-06-30,Savings account interest,Interest,income,640
+2026-07-01,Monthly salary credit,Salary,income,68000
+2026-07-02,OTT streaming subscription,Subscriptions,expense,499
+2026-07-02,Music streaming subscription,Subscriptions,expense,119
+2026-07-03,Supermarket weekly groceries,Groceries,expense,2500
+2026-07-05,Monthly house rent,Rent,expense,18000
+2026-07-06,Metro card recharge,Transport,expense,1000
+2026-07-07,Dental check-up,Healthcare,expense,1800
+2026-07-08,Electricity bill,Utilities,expense,3100
+2026-07-09,Restaurant dinner,Dining Out,expense,1900
+2026-07-10,Broadband and mobile recharge,Utilities,expense,1298
+2026-07-11,Supermarket weekly groceries,Groceries,expense,2400
+2026-07-13,Movie tickets,Entertainment,expense,1100
+2026-07-14,Fuel - petrol,Transport,expense,2200
+2026-07-15,Pharmacy purchase,Healthcare,expense,1450
+2026-07-16,Cafe and snacks,Dining Out,expense,950
+2026-07-17,Clothing purchase,Shopping,expense,1500
+2026-07-19,Vegetable and fruit market,Groceries,expense,1150
+2026-07-22,Cab rides,Transport,expense,780
+2026-07-23,Food delivery orders,Dining Out,expense,1300
+2026-07-25,Health insurance premium,Insurance,expense,1250
+2026-07-26,Supermarket monthly staples,Groceries,expense,3300
+2026-07-28,Weekend brunch,Dining Out,expense,1800
+2026-08-01,Monthly salary credit,Salary,income,68000
+2026-08-02,OTT streaming subscription,Subscriptions,expense,499
+2026-08-02,Music streaming subscription,Subscriptions,expense,119
+2026-08-03,Supermarket weekly groceries,Groceries,expense,2750
+2026-08-05,Monthly house rent,Rent,expense,18000
+2026-08-06,Metro card recharge,Transport,expense,1000
+2026-08-08,Electricity bill,Utilities,expense,2750
+2026-08-09,Restaurant dinner,Dining Out,expense,2400
+2026-08-10,Broadband and mobile recharge,Utilities,expense,1298
+2026-08-11,Supermarket weekly groceries,Groceries,expense,2300
+2026-08-13,Movie tickets,Entertainment,expense,900
+2026-08-14,Freelance report design,Freelance,income,9500
+2026-08-14,Fuel - petrol,Transport,expense,2100
+2026-08-16,Cafe and snacks,Dining Out,expense,880
+2026-08-17,Clothing purchase,Shopping,expense,5200
+2026-08-18,Train tickets - family trip,Travel,expense,6400
+2026-08-19,Vegetable and fruit market,Groceries,expense,1050
+2026-08-19,Hotel stay - family trip,Travel,expense,7800
+2026-08-22,Cab rides,Transport,expense,1350
+2026-08-23,Food delivery orders,Dining Out,expense,1050
+2026-08-24,Online shopping - household items,Shopping,expense,1600
+2026-08-25,Health insurance premium,Insurance,expense,1250
+2026-08-26,Supermarket monthly staples,Groceries,expense,3000
+2026-09-01,Monthly salary credit,Salary,income,68000
+2026-09-02,OTT streaming subscription,Subscriptions,expense,499
+2026-09-02,Music streaming subscription,Subscriptions,expense,119
+2026-09-03,Supermarket weekly groceries,Groceries,expense,2400
+2026-09-05,Monthly house rent,Rent,expense,18000
+2026-09-06,Metro card recharge,Transport,expense,1000
+2026-09-08,Electricity bill,Utilities,expense,2200
+2026-09-09,Restaurant dinner,Dining Out,expense,3100
+2026-09-10,Broadband and mobile recharge,Utilities,expense,1298
+2026-09-11,Supermarket weekly groceries,Groceries,expense,2200
+2026-09-12,Reference books,Education,expense,1850
+2026-09-13,Movie tickets,Entertainment,expense,1600
+2026-09-14,Fuel - petrol,Transport,expense,1950
+2026-09-15,Pharmacy purchase,Healthcare,expense,780
+2026-09-16,Cafe and snacks,Dining Out,expense,1100
+2026-09-17,Clothing purchase,Shopping,expense,2400
+2026-09-19,Vegetable and fruit market,Groceries,expense,1200
+2026-09-21,Concert and event tickets,Entertainment,expense,1800
+2026-09-22,Cab rides,Transport,expense,820
+2026-09-23,Food delivery orders,Dining Out,expense,1420
+2026-09-24,Online shopping - household items,Shopping,expense,1350
+2026-09-25,Health insurance premium,Insurance,expense,1250
+2026-09-26,Supermarket monthly staples,Groceries,expense,3150
+2026-09-28,Weekend brunch,Dining Out,expense,2200
+2026-09-30,Savings account interest,Interest,income,655
